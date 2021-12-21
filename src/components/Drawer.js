@@ -119,7 +119,7 @@ export default function PersistentDrawerLeft() {
             {theme.direction === 'ltr' ? <ChevronLeftIcon /> : <ChevronRightIcon />}
           </IconButton>
         </DrawerHeader>
-        <Divider />
+        {/* <Divider /> */}
         <List>
           {['Dashboard', 'My leads', 'Counties', 'Log out'].map((text, index) => (
             <ListItem button key={text}>
@@ -151,4 +151,4 @@ export default function PersistentDrawerLeft() {
   );
 }
 
-
+// ukgsyutw1yfsyqfwytd
