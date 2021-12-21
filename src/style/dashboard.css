@@ -1,0 +1,14 @@
+.css-ciy9n4-MuiPaper-root-MuiAppBar-root {
+    background-color: white !important;
+    color: blue !important;
+}
+.css-10hburv-MuiTypography-root {
+    color: blue !important
+}
+.css-yfo96e{
+    background-color: lightgray !important;
+}
+.Drawer-main-div{
+    display: flex;
+    justify-content: space-between;
+}
